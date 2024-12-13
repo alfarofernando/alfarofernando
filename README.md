@@ -1,16 +1,14 @@
 # Hola, soy [alfarofernando](https://github.com/alfarofernando) 👋
 
-Bienvenido a mi perfil de GitHub. Soy desarrollador web con experiencia en tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python y mas!.
+Bienvenido a mi perfil de GitHub. Soy desarrollador web con experiencia en tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, MySQL, MongoDB y mas!.
 
 ## Estadísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfarofernando&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfarofernando&show_icons=true&theme=dark)
 
 ## Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfarofernando&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfarofernando&layout=compact&theme=dark)
 
 ## Trofeos
+[![trophy](https://github-profile-trophy.vercel.app/?username=alfarofernando&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miusuario)](https://github.com/ryo-ma/github-profile-trophy)
 
