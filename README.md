@@ -8,9 +8,6 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador web con experiencia en tecno
 ## Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfarofernando&layout=compact&theme=github_dark)
 
-## Trofeos
-[![trophy](https://github-profile-trophy.vercel.app/?username=alfarofernando&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
