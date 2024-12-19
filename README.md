@@ -7,9 +7,9 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador web con experiencia en tecno
 
 ## Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfarofernando&layout=compact&theme=github_dark)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
-![Streak Stats](https://streak-stats.demolab.com?user=zfranco21&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3)
 
 
 
