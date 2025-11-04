@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador web con experiencia en tecno
 ![Fernando's GitHub stats](https://github-readme-stats-six-swart-64.vercel.app/api?username=alfarofernando&show_icons=true&count_private=true&exclude_repo=github-readme-stats&theme=radical&v=2)
 
 ### 🧠 Lenguajes más usados
-![Top Langs](https://github-readme-stats-six-swart-64.vercel.app/api/top-langs/?username=alfarofernando&layout=compact&count_private=true&exclude_repo=github-readme-stats&theme=radical&v=2)
+![Top Langs](https://github-readme-stats-six-swart-64.vercel.app/api/top-langs/?username=alfarofernando&layout=compact&count_private=true&exclude_repo=github-readme-stats&hide=python&theme=radical)
 
 .
 
